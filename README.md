@@ -12,9 +12,9 @@ All you need is: you having friends.
 5. ngrok
 
 A multiplayer game developed in Facebook San Francisco Hackathon 2019. 
-Developer: Manasa Hari
+Developer: Nachiket Trivedi
 Team: #16
-Other team members: Nachiket Trivedi, Alaukika Diwanji, Susane Zell.
+Other team members: Manasa Hari, Alaukika Diwanji, Susane Zell.
 
 Here's a sample for you:
 
